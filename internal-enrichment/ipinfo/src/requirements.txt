@@ -1,2 +1,0 @@
-pycti==5.3.7
-pycountry==20.7.3
